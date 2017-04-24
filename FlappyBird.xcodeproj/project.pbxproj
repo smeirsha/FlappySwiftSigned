@@ -173,7 +173,7 @@
 				TargetAttributes = {
 					437451F9193D163700654986 = {
 						CreatedOnToolsVersion = 6.0;
-						DevelopmentTeam = FFY96ZBU8L;
+						DevelopmentTeam = YFVZ335843;
 						LastSwiftMigration = 0800;
 						ProvisioningStyle = Automatic;
 					};
@@ -350,10 +350,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = FFY96ZBU8L;
+				DEVELOPMENT_TEAM = YFVZ335843;
 				INFOPLIST_FILE = FlappyBird/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.niko.flappyswift;
+				PRODUCT_BUNDLE_IDENTIFIER = YFVZ335843.com.niko.flappyswift;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 3.0;
@@ -365,10 +365,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = FFY96ZBU8L;
+				DEVELOPMENT_TEAM = YFVZ335843;
 				INFOPLIST_FILE = FlappyBird/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.niko.flappyswift;
+				PRODUCT_BUNDLE_IDENTIFIER = YFVZ335843.com.niko.flappyswift;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 3.0;
