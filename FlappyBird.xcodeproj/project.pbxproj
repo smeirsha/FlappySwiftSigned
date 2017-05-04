@@ -356,7 +356,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = YFVZ335843.com.niko.flappyswift;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "c49c0adc-14ee-4e4b-b1f2-5604a924808b";
+				PROVISIONING_PROFILE = "28538aed-25db-4496-97f0-a6dba7eb2d87";
 				PROVISIONING_PROFILE_SPECIFIER = DevProfile;
 				SWIFT_VERSION = 3.0;
 			};
@@ -373,7 +373,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = YFVZ335843.com.niko.flappyswift;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "c49c0adc-14ee-4e4b-b1f2-5604a924808b";
+				PROVISIONING_PROFILE = "28538aed-25db-4496-97f0-a6dba7eb2d87";
 				PROVISIONING_PROFILE_SPECIFIER = DevProfile;
 				SWIFT_VERSION = 3.0;
 			};
